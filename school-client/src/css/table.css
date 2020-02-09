@@ -1,0 +1,14 @@
+.dtable{
+  margin-top: 20px;
+  position: absolute;
+  top:01px;
+  left:60px;
+}
+
+.col{
+  background-color: dodgerblue;
+}
+
+.col1{
+  background-color: red;
+}

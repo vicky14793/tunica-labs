@@ -1,0 +1,19 @@
+body > .grid {
+     height: 100%;
+     padding-top: 50px;
+   }
+   .image {
+     margin-top: -100px;
+   }
+   .column {
+     max-width: 450px;
+   }
+
+
+
+   .Signin-component {
+     margin-top: 10px;
+    background: url("https://livewallpaperswide.com/wp-content/uploads/2016/11/1479382700_165_1920-by-1080-wallpapers.jpg");
+    background-size: cover;
+
+   }

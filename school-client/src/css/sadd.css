@@ -1,0 +1,10 @@
+.abcd{
+  display:flex;
+  flex-direction:row;
+}
+
+.w1{
+  position: relative;
+  top:25px;
+  width: 400px;
+}

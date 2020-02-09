@@ -1,0 +1,121 @@
+
+
+
+ .border{
+  border-bottom: 1px solid lightgray;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+}
+
+
+
+li {
+  float: left;
+  font-style: oblique;
+
+}
+/* input[type=text] {
+  width: 180px;
+  box-sizing: border-box;
+  border: 1px solid silver;
+  border-radius: 03px;
+  font-size: 12px;
+  background-image: url("https://clipart.wpblink.com/sites/default/files/wallpaper/search-icon/153749/search-icon-vector-153749-5521303.jpg");
+  background-color: white;
+  background-size: 12px;
+  background-position: center left 05px;
+  background-repeat: no-repeat;
+  padding: 05px 20px 05px 20px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+} */
+/* input[type=text]:focus {
+  width: 50%;
+} */
+
+.p{
+  font-size:
+}
+
+.button1{
+  border: 1px solid rgb(200,30,30);
+  border-radius: 05px;
+  font-size: 12px;
+  background-color: rgb(200,30,30);
+  color: white;
+  width: 120px;
+  height: 26px;
+  position:relative;
+  left: 45px;
+  bottom: 01px;
+}
+
+.link1{
+  font-size: 12px;
+  color: white;
+}
+
+.search{
+  position:relative;
+  top:05px;
+  left:320px;
+
+}
+.bellicon{
+  position: relative;
+  top:07px;
+  left: 550px;
+  color: rgb(200,30,30);
+}
+
+.seperate{
+  display: flex;
+  direction: row;
+}
+
+.spot{
+  position: relative;
+  left: 640px;
+  bottom: 06px;
+}
+.icon1{
+  position: relative;
+  bottom:07px;
+  left: 600px;
+  display:flex;
+  flex-direction:row;
+}
+
+.b1{
+  padding-left: 160px;
+  font-size: 25px;
+  font-weight: bold;
+  color: 	rgb(200,30,30);
+}
+li a {
+  display: block;
+  color: #000000;
+  text-align: center;
+  padding: 10px 16px;
+  text-decoration: none;
+}
+li.active {
+  background-color: white;
+  border-bottom: 1.5px solid rgb(200,30,30);;
+  color: 	rgb(200,30,30);
+
+}
+.person{
+  display: inline-block;
+  position: relative;
+  left:300px;
+}
+/* li a:hover {
+  background-color: #111;
+} */

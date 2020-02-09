@@ -1,0 +1,11 @@
+.abc{
+  display:flex;
+  flex-direction:row;
+}
+
+
+.table1{
+  position:relative;
+  top:80px;
+  right:590px;
+}

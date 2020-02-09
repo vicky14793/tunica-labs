@@ -1,0 +1,49 @@
+.sname{
+  width:100px;
+  border: 1px solid silver;
+  border-radius: 03px;
+  position:relative;
+  top:25px;
+}
+
+.sage{
+  width:100px;
+  border: 1px solid silver;
+  border-radius: 03px;
+  position:relative;
+  top:25px;
+  left:15px;
+}
+
+.sschool{
+  width:110px;
+  border: 1px solid silver;
+  border-radius: 03px;
+  position:relative;
+  top:25px;
+  left:30px;
+}
+
+.sclass{
+  width:100px;
+  border: 1px solid silver;
+  border-radius: 03px;
+  position:relative;
+  top:25px;
+  left:45px;
+}
+
+.sdiv{
+  width:115px;
+  border: 1px solid silver;
+  border-radius: 03px;
+  position:relative;
+  top:25px;
+  left:60px;
+}
+.searchb{
+  width:100px;
+  position:relative;
+  top:24px;
+  left:80px;
+}
