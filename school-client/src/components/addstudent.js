@@ -126,7 +126,7 @@ render(){
                     </div>
                 </div>
               <div className="sclass12">
-                  <div className="fns2">className:</div>
+                  <div className="fns2">class:</div>
                       <div className="dd2">
                         <Dropdown className="sclass1" name="sclass" options={standards} placeholder='Select class' value= {this.state.sclass} onChange={this.handleDropdown}  />
                   </div>
